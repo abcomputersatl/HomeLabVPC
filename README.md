@@ -1,2 +1,2 @@
 # HomeLabVPC
-How to setup a home vPC with Twingate Azure DNS and Open VPN
+How to set up a home VPC with Twingate, Azure DNS, and OpenVPN
